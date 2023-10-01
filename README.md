@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Shivani Sharma</h1>
 <h3 align="left">A passionate Data Analyst From India</h3>
+<img align="right" alt ="coding" width = "400" src= "https://wallpapercave.com/wp/wp12003643.jpg">
 
 - 🌱 I’m currently learning **AI and ML**
 
@@ -13,6 +14,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/sharmashivani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharmashivani01" height="30" width="40" /></a>
 </p>
-<p> <img href="https://www.21kschool.com/blog/wp-content/uploads/2022/09/Should-Students-Have-Homework-Pros-and-Cons.png" align="right"></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
