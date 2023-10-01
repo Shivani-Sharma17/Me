@@ -1,6 +1,6 @@
-<h1 align="centre">Hi 👋, I'm Shivani Sharma</h1>
-<h3 align="centre">A passionate Data Analyst From India</h3>
-<img align="right" alt ="coding" width = "200" src= "https://wallpapercave.com/wp/wp12003643.jpg">
+<h1 align="center">Hi 👋, I'm Shivani Sharma</h1>
+<h3 align="center">A passionate Data Analyst From India</h3>
+<img align="right" alt ="coding" width = "100" src= "https://wallpapercave.com/wp/wp12003643.jpg">
 
 - 🌱 I’m currently learning **AI and ML**
 
